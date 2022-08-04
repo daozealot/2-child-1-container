@@ -1,0 +1,15 @@
+
+.container {
+  height: 200px;
+  background-color: blue;
+}
+
+.child1 {
+  background-color: lightgray;
+
+}
+
+.child2 {
+  background-color: lightcyan;
+
+}
